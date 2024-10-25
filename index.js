@@ -1,2 +1,2 @@
-console.log("Jenkins project working v4"); 
+consol.log("Jenkins project working v4"); 
 
